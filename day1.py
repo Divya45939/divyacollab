@@ -48,11 +48,11 @@
 #         alpha +=1
 #     print() 
 # ___________________steps patterns_________________
-n = int(input("enter the number"))
-for i in range(n):
-    for j in range(i):
-        print("*",end="")
-    print()  
+# n = int(input("enter the number"))
+# for i in range(n):
+#     for j in range(i):
+#         print("*",end="")
+#     print()  
 
 
 # alph = 65
@@ -97,3 +97,4 @@ for i in range(n):
 #         count +=1
 #     print()             
     
+print("akshaya")
